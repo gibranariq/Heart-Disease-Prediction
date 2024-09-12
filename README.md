@@ -2,7 +2,7 @@
 
 Proyek ini merupakan assignment dari mata kuliah Machine Learning pada semester 5 yang beranggotakan:
 
-Gibran Ariq Natakusuma - 1301213180 (Ketua)
-Muhammad Adhi Gozalt - 1301213212
-Ahmad Fauzan Gendewa - 1301213162
+1. Gibran Ariq Natakusuma - 1301213180 (Ketua)
+2. Muhammad Adhi Gozalt - 1301213212
+3. Ahmad Fauzan Gendewa - 1301213162
 
